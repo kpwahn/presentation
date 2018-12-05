@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "webpack-dev-server --open"
+    "start": "webpack-dev-server"
   },
   "repository": {
     "type": "git",
@@ -35,6 +35,7 @@
     "@material-ui/core": "^3.6.0",
     "@material-ui/icons": "^3.0.1",
     "react": "16.6.3",
-    "react-dom": "16.6.3"
+    "react-dom": "16.6.3",
+    "react-router-dom": "^4.3.1"
   }
 }
